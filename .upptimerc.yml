@@ -4,29 +4,68 @@ repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
+  - name: Coding
+    url: https://coding.net
+  - name: Gitee
+    url: https://gitee.com
+  - name: Github
+    url: https://github.com
+  - name: Github Status
+    url: https://www.githubstatus.com
+  - name: Ryanjie Blog
+    url: https://www.ryanjie.cn
+  - name: Ryanjie Drive
+    url: https://gd.ryanjie.cn
+  - name: Ryanjie Github
+    url: https://git.ryanjie.cn
+  - name: Ryanjie Google
+    url: https://gg.fgh.workers.dev
+  - name: Ryanjie Google Scholar
+    url: https://gs.ryanjie.cn
+  - name: Ryanjie Hexo Blog
+    url: https://hexo.ryanjie.cn
+  - name: Ryanjie Img
+    url: https://img.ryanjie.cn
+  - name: Ryanjie Learn
+    url: https://learn.ryanjie.cn
+  - name: Ryanjie Movie
+    url: https://movie.ryanjie.cn
+  - name: Ryanjie Onedrive
+    url: https://file.ryanjie.cn
+  - name: Ryanjie Pic
+    url: https://pic.ryanjie.cn
+  - name: Ryanjie Pornhub
+    url: https://ph.ryanjie.cn
+  - name: Ryanjie Profile
+    url: https://m.ryanjie.cn
+  - name: Ryanjie RSSHUB
+    url: https://rss.ryanjie.cn
+  - name: Ryanjie Status
+    url: https://ss.ryanjie.cn
+  - name: Ryanjie Uptime Robot Status
+    url: https://status.ryanjie.cn
+  - name: Ryanjie Wikipedia EN
+    url: https://ewp.ryanjie.cn
+  - name: Ryanjie Wikipedia ZH
+    url: https://zwp.ryanjie.cn
+  - name: Ryanjie WorkProject
+    url: https://project.ryanjie.cn
   # - name: Secret Site
   #   url: $SECRET_SITE
 
 status-website:
-  # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
-  # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /upptime
   logoUrl: https://cdn.jsdelivr.net/gh/Ryanjiena/Ryanjiena@master/icon/Ryanjiena.svg
+  favicon: https://cdn.jsdelivr.net/gh/Ryanjiena/icon@master/png/site/ryanjie.png
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
+  introTitle: Uptime Status 
+  introMessage: Stay Simple.
   navbar:
     - title: Status
       href: /
+    - title: Uptime Robot
+      href: https://ss.ryanjie.cn
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
@@ -38,6 +77,6 @@ commitMessages:
   summaryJson: ":card_file_box: Update status summary [skip ci] [upptime]"
   statusChange: "$EMOJI $SITE_NAME is $STATUS ($RESPONSE_CODE in $RESPONSE_TIME ms) [skip ci] [upptime]"
   graphsUpdate: ":bento: Update graphs [skip ci] [upptime]"
-  commitAuthorName: "Ryanjiena Bot"
+  commitAuthorName: "RyanjienaBot"
   commitAuthorEmail: "ryanjiena@foxmail.com"
   

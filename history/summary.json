@@ -36,7 +36,7 @@
     "url": "https://www.ryanjie.cn",
     "slug": "ryanjie-blog",
     "status": "down",
-    "uptime": "97.37%",
+    "uptime": "97.39%",
     "time": 15480
   },
   {
@@ -60,7 +60,7 @@
     "url": "https://gg.fgh.workers.dev",
     "slug": "ryanjie-google",
     "status": "down",
-    "uptime": "97.64%",
+    "uptime": "97.66%",
     "time": 309
   },
   {
@@ -68,7 +68,7 @@
     "url": "https://gs.ryanjie.cn",
     "slug": "ryanjie-google-scholar",
     "status": "down",
-    "uptime": "85.82%",
+    "uptime": "85.91%",
     "time": 590
   },
   {
@@ -84,7 +84,7 @@
     "url": "https://img.ryanjie.cn",
     "slug": "ryanjie-img",
     "status": "down",
-    "uptime": "97.38%",
+    "uptime": "97.40%",
     "time": 3404
   },
   {
@@ -100,7 +100,7 @@
     "url": "https://movie.ryanjie.cn",
     "slug": "ryanjie-movie",
     "status": "down",
-    "uptime": "97.38%",
+    "uptime": "97.40%",
     "time": 2834
   },
   {
@@ -108,7 +108,7 @@
     "url": "https://file.ryanjie.cn",
     "slug": "ryanjie-onedrive",
     "status": "down",
-    "uptime": "97.39%",
+    "uptime": "97.41%",
     "time": 0
   },
   {
@@ -116,7 +116,7 @@
     "url": "https://pic.ryanjie.cn",
     "slug": "ryanjie-pic",
     "status": "down",
-    "uptime": "97.39%",
+    "uptime": "97.41%",
     "time": 2698
   },
   {
@@ -156,8 +156,8 @@
     "url": "https://status.ryanjie.cn",
     "slug": "ryanjie-uptime-robot-status",
     "status": "down",
-    "uptime": "76.32%",
-    "time": 809
+    "uptime": "75.82%",
+    "time": 843
   },
   {
     "name": "Ryanjie Wikipedia EN",

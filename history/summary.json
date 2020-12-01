@@ -36,7 +36,7 @@
     "url": "https://www.ryanjie.cn",
     "slug": "ryanjie-blog",
     "status": "down",
-    "uptime": "97.85%",
+    "uptime": "97.86%",
     "time": 15474
   },
   {
@@ -60,7 +60,7 @@
     "url": "https://gg.fgh.workers.dev",
     "slug": "ryanjie-google",
     "status": "down",
-    "uptime": "98.07%",
+    "uptime": "98.08%",
     "time": 314
   },
   {
@@ -68,8 +68,8 @@
     "url": "https://gs.ryanjie.cn",
     "slug": "ryanjie-google-scholar",
     "status": "down",
-    "uptime": "86.77%",
-    "time": 642
+    "uptime": "86.80%",
+    "time": 639
   },
   {
     "name": "Ryanjie Hexo Blog",
@@ -156,7 +156,7 @@
     "url": "https://status.ryanjie.cn",
     "slug": "ryanjie-uptime-robot-status",
     "status": "down",
-    "uptime": "80.13%",
+    "uptime": "80.14%",
     "time": 866
   },
   {

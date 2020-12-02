@@ -60,16 +60,16 @@
     "url": "https://gg.fgh.workers.dev",
     "slug": "ryanjie-google",
     "status": "down",
-    "uptime": "94.61%",
-    "time": 313
+    "uptime": "94.38%",
+    "time": 314
   },
   {
     "name": "Ryanjie Google Scholar",
     "url": "https://gs.ryanjie.cn",
     "slug": "ryanjie-google-scholar",
     "status": "down",
-    "uptime": "84.03%",
-    "time": 583
+    "uptime": "83.84%",
+    "time": 584
   },
   {
     "name": "Ryanjie Hexo Blog",
@@ -84,7 +84,7 @@
     "url": "https://img.ryanjie.cn",
     "slug": "ryanjie-img",
     "status": "down",
-    "uptime": "98.11%",
+    "uptime": "98.12%",
     "time": 2723
   },
   {
@@ -108,7 +108,7 @@
     "url": "https://file.ryanjie.cn",
     "slug": "ryanjie-onedrive",
     "status": "down",
-    "uptime": "98.12%",
+    "uptime": "98.13%",
     "time": 0
   },
   {
@@ -116,7 +116,7 @@
     "url": "https://pic.ryanjie.cn",
     "slug": "ryanjie-pic",
     "status": "down",
-    "uptime": "98.12%",
+    "uptime": "98.13%",
     "time": 2560
   },
   {
@@ -156,7 +156,7 @@
     "url": "https://status.ryanjie.cn",
     "slug": "ryanjie-uptime-robot-status",
     "status": "down",
-    "uptime": "82.49%",
+    "uptime": "82.53%",
     "time": 886
   },
   {

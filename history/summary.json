@@ -5,7 +5,15 @@
     "slug": "coding",
     "status": "down",
     "uptime": "100.00%",
-    "time": 2323
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2746,
+    "timeDay": 2447,
+    "timeWeek": 2746,
+    "timeMonth": 2746,
+    "timeYear": 2746
   },
   {
     "name": "Gitee",
@@ -13,7 +21,15 @@
     "slug": "gitee",
     "status": "down",
     "uptime": "100.00%",
-    "time": 1880
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2069,
+    "timeDay": 1823,
+    "timeWeek": 2069,
+    "timeMonth": 2069,
+    "timeYear": 2069
   },
   {
     "name": "Github",
@@ -21,7 +37,15 @@
     "slug": "github",
     "status": "down",
     "uptime": "100.00%",
-    "time": 150
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 151,
+    "timeDay": 96,
+    "timeWeek": 151,
+    "timeMonth": 151,
+    "timeYear": 151
   },
   {
     "name": "Github Status",
@@ -29,15 +53,31 @@
     "slug": "github-status",
     "status": "down",
     "uptime": "100.00%",
-    "time": 559
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 559,
+    "timeDay": 548,
+    "timeWeek": 559,
+    "timeMonth": 559,
+    "timeYear": 559
   },
   {
     "name": "Ryanjie Blog",
     "url": "https://www.ryanjie.cn",
     "slug": "ryanjie-blog",
     "status": "down",
-    "uptime": "98.34%",
-    "time": 15460
+    "uptime": "98.35%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.35%",
+    "uptimeMonth": "98.35%",
+    "uptimeYear": "98.35%",
+    "time": 15461,
+    "timeDay": 15201,
+    "timeWeek": 15461,
+    "timeMonth": 15461,
+    "timeYear": 15461
   },
   {
     "name": "Ryanjie Drive",
@@ -45,7 +85,15 @@
     "slug": "ryanjie-drive",
     "status": "down",
     "uptime": "100.00%",
-    "time": 313
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 345,
+    "timeDay": 191,
+    "timeWeek": 345,
+    "timeMonth": 345,
+    "timeYear": 345
   },
   {
     "name": "Ryanjie Github",
@@ -53,23 +101,47 @@
     "slug": "ryanjie-github",
     "status": "down",
     "uptime": "100.00%",
-    "time": 429
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 430,
+    "timeDay": 207,
+    "timeWeek": 430,
+    "timeMonth": 430,
+    "timeYear": 430
   },
   {
     "name": "Ryanjie Google",
     "url": "https://gg.fgh.workers.dev",
     "slug": "ryanjie-google",
     "status": "down",
-    "uptime": "94.67%",
-    "time": 304
+    "uptime": "94.71%",
+    "uptimeDay": "78.25%",
+    "uptimeWeek": "94.71%",
+    "uptimeMonth": "94.71%",
+    "uptimeYear": "94.71%",
+    "time": 305,
+    "timeDay": 246,
+    "timeWeek": 305,
+    "timeMonth": 305,
+    "timeYear": 305
   },
   {
     "name": "Ryanjie Google Scholar",
     "url": "https://gs.ryanjie.cn",
     "slug": "ryanjie-google-scholar",
     "status": "down",
-    "uptime": "84.47%",
-    "time": 591
+    "uptime": "84.58%",
+    "uptimeDay": "82.60%",
+    "uptimeWeek": "84.58%",
+    "uptimeMonth": "84.58%",
+    "uptimeYear": "84.58%",
+    "time": 592,
+    "timeDay": 576,
+    "timeWeek": 592,
+    "timeMonth": 592,
+    "timeYear": 592
   },
   {
     "name": "Ryanjie Hexo Blog",
@@ -77,15 +149,31 @@
     "slug": "ryanjie-hexo-blog",
     "status": "down",
     "uptime": "100.00%",
-    "time": 306
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 306,
+    "timeDay": 445,
+    "timeWeek": 306,
+    "timeMonth": 306,
+    "timeYear": 306
   },
   {
     "name": "Ryanjie Img",
     "url": "https://img.ryanjie.cn",
     "slug": "ryanjie-img",
     "status": "down",
-    "uptime": "98.34%",
-    "time": 2581
+    "uptime": "98.35%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.35%",
+    "uptimeMonth": "98.35%",
+    "uptimeYear": "98.35%",
+    "time": 2581,
+    "timeDay": 1446,
+    "timeWeek": 2581,
+    "timeMonth": 2581,
+    "timeYear": 2581
   },
   {
     "name": "Ryanjie Learn",
@@ -93,31 +181,63 @@
     "slug": "ryanjie-learn",
     "status": "down",
     "uptime": "100.00%",
-    "time": 2205
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2205,
+    "timeDay": 1635,
+    "timeWeek": 2205,
+    "timeMonth": 2205,
+    "timeYear": 2205
   },
   {
     "name": "Ryanjie Movie",
     "url": "https://movie.ryanjie.cn",
     "slug": "ryanjie-movie",
     "status": "down",
-    "uptime": "98.34%",
-    "time": 3035
+    "uptime": "98.36%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.36%",
+    "uptimeMonth": "98.36%",
+    "uptimeYear": "98.36%",
+    "time": 3036,
+    "timeDay": 5051,
+    "timeWeek": 3036,
+    "timeMonth": 3036,
+    "timeYear": 3036
   },
   {
     "name": "Ryanjie Onedrive",
     "url": "https://file.ryanjie.cn",
     "slug": "ryanjie-onedrive",
     "status": "down",
-    "uptime": "98.35%",
-    "time": 0
+    "uptime": "98.36%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.36%",
+    "uptimeMonth": "98.36%",
+    "uptimeYear": "98.36%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0
   },
   {
     "name": "Ryanjie Pic",
     "url": "https://pic.ryanjie.cn",
     "slug": "ryanjie-pic",
     "status": "down",
-    "uptime": "98.35%",
-    "time": 2525
+    "uptime": "98.36%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.36%",
+    "uptimeMonth": "98.36%",
+    "uptimeYear": "98.36%",
+    "time": 2525,
+    "timeDay": 2241,
+    "timeWeek": 2525,
+    "timeMonth": 2525,
+    "timeYear": 2525
   },
   {
     "name": "Ryanjie Pornhub",
@@ -125,7 +245,15 @@
     "slug": "ryanjie-pornhub",
     "status": "down",
     "uptime": "100.00%",
-    "time": 689
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 689,
+    "timeDay": 574,
+    "timeWeek": 689,
+    "timeMonth": 689,
+    "timeYear": 689
   },
   {
     "name": "Ryanjie Profile",
@@ -133,7 +261,15 @@
     "slug": "ryanjie-profile",
     "status": "down",
     "uptime": "100.00%",
-    "time": 1547
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1548,
+    "timeDay": 1256,
+    "timeWeek": 1548,
+    "timeMonth": 1548,
+    "timeYear": 1548
   },
   {
     "name": "Ryanjie RSSHUB",
@@ -141,7 +277,15 @@
     "slug": "ryanjie-rsshub",
     "status": "down",
     "uptime": "100.00%",
-    "time": 252
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 253,
+    "timeDay": 205,
+    "timeWeek": 253,
+    "timeMonth": 253,
+    "timeYear": 253
   },
   {
     "name": "Ryanjie Status",
@@ -149,15 +293,31 @@
     "slug": "ryanjie-status",
     "status": "down",
     "uptime": "100.00%",
-    "time": 153
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 154,
+    "timeDay": 44,
+    "timeWeek": 154,
+    "timeMonth": 154,
+    "timeYear": 154
   },
   {
     "name": "Ryanjie Uptime Robot Status",
     "url": "https://status.ryanjie.cn",
     "slug": "ryanjie-uptime-robot-status",
     "status": "down",
-    "uptime": "84.60%",
-    "time": 904
+    "uptime": "84.72%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "84.72%",
+    "uptimeMonth": "84.72%",
+    "uptimeYear": "84.72%",
+    "time": 1105,
+    "timeDay": 1085,
+    "timeWeek": 1105,
+    "timeMonth": 1105,
+    "timeYear": 1105
   },
   {
     "name": "Ryanjie Wikipedia EN",
@@ -165,7 +325,15 @@
     "slug": "ryanjie-wikipedia-en",
     "status": "down",
     "uptime": "100.00%",
-    "time": 253
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 253,
+    "timeDay": 315,
+    "timeWeek": 253,
+    "timeMonth": 253,
+    "timeYear": 253
   },
   {
     "name": "Ryanjie Wikipedia ZH",
@@ -173,7 +341,15 @@
     "slug": "ryanjie-wikipedia-zh",
     "status": "down",
     "uptime": "100.00%",
-    "time": 289
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 289,
+    "timeDay": 112,
+    "timeWeek": 289,
+    "timeMonth": 289,
+    "timeYear": 289
   },
   {
     "name": "Ryanjie WorkProject",
@@ -181,6 +357,14 @@
     "slug": "ryanjie-work-project",
     "status": "down",
     "uptime": "100.00%",
-    "time": 1798
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1799,
+    "timeDay": 1719,
+    "timeWeek": 1799,
+    "timeMonth": 1799,
+    "timeYear": 1799
   }
 ]

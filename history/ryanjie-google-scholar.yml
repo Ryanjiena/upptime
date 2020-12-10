@@ -1,7 +1,7 @@
 url: https://gs.ryanjie.cn  
-status: up
-code: 200
-responseTime: 195
-lastUpdated: 2020-12-10T01:49:29.643Z
+status: down
+code: 429
+responseTime: 596
+lastUpdated: 2020-12-10T04:47:55.203Z
 startTime: Thu Nov 26 2020 13:44:34 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

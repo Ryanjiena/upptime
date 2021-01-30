@@ -220,18 +220,18 @@
     "icon": "https://favicons.githubusercontent.com/gs.ryanjie.cn",
     "slug": "ryanjie-google-scholar",
     "status": "down",
-    "uptime": "93.87%",
-    "uptimeDay": "81.95%",
-    "uptimeWeek": "78.23%",
-    "uptimeMonth": "86.89%",
-    "uptimeYear": "93.87%",
+    "uptime": "93.98%",
+    "uptimeDay": "81.88%",
+    "uptimeWeek": "78.28%",
+    "uptimeMonth": "87.11%",
+    "uptimeYear": "93.98%",
     "time": 476,
-    "timeDay": 447,
-    "timeWeek": 500,
-    "timeMonth": 497,
+    "timeDay": 466,
+    "timeWeek": 506,
+    "timeMonth": 498,
     "timeYear": 476,
     "dailyMinutesDown": {
-      "2021-01-30": 172,
+      "2021-01-30": 173,
       "2021-01-29": 267,
       "2021-01-28": 443,
       "2021-01-27": 210,
@@ -250,7 +250,7 @@
       "2021-01-14": 487,
       "2021-01-13": 434,
       "2021-01-12": 271,
-      "2021-01-11": 420
+      "2021-01-11": 323
     }
   },
   {
@@ -468,7 +468,7 @@
     "timeMonth": 262,
     "timeYear": 1101,
     "dailyMinutesDown": {
-      "2021-01-30": 939,
+      "2021-01-30": 958,
       "2021-01-29": 1440,
       "2021-01-28": 1440,
       "2021-01-27": 1440,

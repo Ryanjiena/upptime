@@ -1,7 +1,7 @@
 url: https://gg.fgh.workers.dev
-status: up
-code: 200
-responseTime: 762
-lastUpdated: 2021-07-08T03:07:02.587Z
+status: down
+code: 429
+responseTime: 583
+lastUpdated: 2021-07-08T03:41:46.120Z
 startTime: Thu Nov 26 2020 13:44:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
